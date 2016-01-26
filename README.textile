@@ -8,6 +8,6 @@ h1. License
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to  would be appreciated, but is not required.
 
-h5 Credits
+h5. Credits
 
 This site's code was forked from "Tom Preston-Werner":https://github.com/mojombo/mojombo.github.io and the website's code is available under "MIT License":https://opensource.org/licenses/MIT .
