@@ -6,9 +6,8 @@ I was tired of having my blog posts end up in a database off on some remote serv
 
 h1. License
 
-The following directories and their contents are Copyright Tom Preston-Werner. You may not reuse anything therein without my permission:
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to  would be appreciated, but is not required.
 
-* _posts/
-* images/
+h5 Credits
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/mojombo/jekyll would be appreciated, but is not required.
+This site's code was forked from "Tom Preston-Werner":https://github.com/mojombo/mojombo.github.io and the website's code is available under "MIT License":https://opensource.org/licenses/MIT .
