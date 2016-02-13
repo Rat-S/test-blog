@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction.
+title: Is free software needed for communicating elecronically?
 author: deadrat
 ---
 
