@@ -17,7 +17,7 @@ For the sake of argument, let us imagine that there are three assholes contestin
 So get your ass out there and select your preferred candidates. I know that you do not have any sweet pussy to select, but at least you can select the asshole that you like if you exercise your right properly.
 And for fucks' sake don't argue that people won't elect the worst possible choice. They definitely do. In this system the dumbest lunatics' vote has same value as yours and they are the majority. 
 
-There is no reason that you should listen to me. I hope that there is some mushy mushy grey shit inside that thick skull of yours. Use that and think. Then act.  
+There is no reason that you should listen to me. I am just another asshole like you. I hope that there is some mushy mushy grey shit inside that thick skull of yours. Use that and think. Then act.  
 
 
 If you are offended, please [click here](https://encyclopediadramatica.se/Offended) and we will rectify your situation. 
