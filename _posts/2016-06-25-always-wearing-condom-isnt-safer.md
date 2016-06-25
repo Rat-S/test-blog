@@ -12,7 +12,7 @@ author: deadrat
 
 **It is always safe to war a [condom](http://www.wikihow.com/Use-a-Condom).** 
 
-The above sentence might be very irrelevant to the rest of the post, so is the financial advice given by bigots. Unfortunately the world is full of bigots; just the way how internet is full of shit - like this post. 
+The above sentence might be very irrelevant to the rest of the post; so is the financial advice given by bigots. Unfortunately the world is full of bigots; just the way how internet is full of shit - like this post. 
 
 
 The shit I wanted to crap today is about how most *people* go advising that saving is a very good habit and how it could help someone's financial situation. (Edit: by [saving](https://en.wikipedia.org/wiki/Saving), I meant saving money. Not some shitty document that you were editing earlier.) The problem with that advise is that whoever takes this malarkey is someone who is already *fucked up financially*. And it goes without saying that these lunatic bastards are probably in deep shit known as debt. 
