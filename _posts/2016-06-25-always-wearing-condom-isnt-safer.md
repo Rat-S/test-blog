@@ -10,7 +10,7 @@ author: deadrat
 <p class="meta">25 June 2016 - Tiruchirappalli</p>
 
 
-**It is always safe to war a [condom](http://www.wikihow.com/Use-a-Condom).** 
+**It is always safe to wear a [condom](http://www.wikihow.com/Use-a-Condom).** 
 
 The above sentence might be very irrelevant to the rest of the post; so is the financial advice given by bigots. Unfortunately the world is full of bigots; just the way how internet is full of shit - like this post. 
 
