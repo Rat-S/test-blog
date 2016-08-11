@@ -1,0 +1,47 @@
+--- !deadrat/^about
+data_sensitivity: PII
+persona         : &id001
+    given           : undisclosed
+    family          : unknown
+    recieved        : deadrat
+    address         : &id002
+        lines           : |
+            undisclosed
+            Nagawara
+        city            : Bangalore
+        state           : Karnataka
+        postal          : 560045
+    domicile        : &id003
+        lines           : |
+            undisclosed
+            Chandirapuram
+        city            : Coimbatore
+        state           : Tamil_Nadu
+        postal          : 641669
+
+
+beliefs         :
+    religious       : Hindu-Atheism
+    economic        : Socialism
+    cultural        : Liberal
+    social          : Liberal
+    politics        : Left-wing
+    nationalism     : Anti-nationalist
+    
+preferences     :
+    handedness      : Right-handed
+    diet            : Lacto_vegetarian
+    sexual-pref     : Heterosexual
+    
+    
+favourites       : 
+    literary_genres : Comedy_of_manners, Satire, Urban
+    film_genre      : Comedy-drama, Satire, 
+    
+    
+
+expectations    : &id101
+    should             : 
+    should_not         : 
+    
+
