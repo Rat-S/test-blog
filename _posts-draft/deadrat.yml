@@ -1,78 +1,90 @@
 --- !deadrat/^about
-data_sensitivity: PII
-persona         : &id001
-    given           : undisclosed
-    family          : unknown
-    recieved        : deadrat
-    address         : &id002
-        lines           : |
+data_sensitivity:   PII
+persona         :   &id001
+    given           :   undisclosed
+    family          :   unknown
+    recieved        :   deadrat
+    address         :   &id002
+        lines           :   |
             undisclosed
             Nagawara
-        city            : Bangalore
-        state           : Karnataka
-        postal          : 560045
-    domicile        : &id003
-        lines           : |
+        city            :   Bangalore
+        state           :   Karnataka
+        postal          :   560045
+    domicile        :   &id003
+        lines           :   |
             undisclosed
             Chandirapuram
-        city            : Coimbatore
-        state           : Tamil_Nadu
-        postal          : 641669
+        city            :   Coimbatore
+        state           :   Tamil_Nadu
+        postal          :   641669
 
 
 beliefs         :
-    religious       : Hindu-Atheism
-    economic        : Socialism
-    cultural        : Liberal
-    social          : Liberal
-    politics        : Left-wing
-    nationalism     : Anti-nationalist
+    religious       :   Hindu-Atheism
+    economic        :   Socialism
+    cultural        :   Liberal
+    social          :   Liberal
+    politics        :   Left-wing
+    nationalism     :   Anti-nationalist
     
 preferences     :
-    handedness      : Right-handed
-    diet            : Lacto_vegetarian
-    sexual-pref     : Heterosexual
+    handedness      :   Right-handed
+    diet            :   Lacto_vegetarian
+    sexual-pref     :   Heterosexual
     
     
 favourites      : 
-    literary_genres : Comedy_of_manners, Satire, Urban
-    film_genre      : Comedy-drama, Satire, 
-    porn_genre      : Pornochanchada, Lesbianism,     
+    literary_genres :   Comedy_of_manners, Satire, Urban
+    film_genre      :   Comedy-drama, Satire, 
+    porn_genre      :   Pornochanchada, Lesbianism,     
     
 
-expectations    : &id101
-    should          : 
-    should_not      : 
+expectations    :   &id101
+    should          :   
+    should_not      :   
     
 
-More_shit       : |
+More_shit       :   |
     Stringet follower of sane traffic rules.
 
 
-Moral_values    :
-  - moral_value     : virginity
-    I_am            : virgin
-    I_will_be       : unknown
-    adherance       : non
-    I_Prefer        : whatever
-    notes           : |
+moral_values    :
+  - moral_value     :   virginity
+    i_am            :   virgin
+    i_will_be       :   unknown
+    adherance       :   non
+    i_Prefer        :   whatever
+    notes           :   |
        # add the url to posts
     
-  - moral_value     : monogamy
-    I_am            : not_applicable
-    I_will_be       : monogamous
-    adherance       : sentimental
-    I_prefer        : monogamous
+  - moral_value     :   monogamy
+    i_am            :   not_applicable
+    i_will_be       :   monogamous
+    adherance       :   sentimental
+    i_prefer        :   monogamous
     
-  - moral_value     : casteism
-    I_am            : subversive
-    I_will_be       : subversive
-    I_prefer        : subversive
+  - moral_value     :   casteism
+    i_am            :   subversive
+    i_will_be       :   subversive
+    i_prefer        :   subversive
     
-  - moral_value     : recreative_drug_usage
-    I_am            : social_drinker
-    I_will_be       : social_drinker
-    adherance       :
-    I_Prefer        : 
+  - moral_value     :   political_correctness
+    i_am            :   non_politically_correct
+    i_will_be       :   non_politically_correct
+    adherance       :   strict
+    i_Prefer        :   
+    notes           :   >
+        Fuck political_correctness. 
     
     
+    
+silly_things    :
+  - the_thing       :   pigeon
+    i_do            :   hate
+    meh_reason      :   |
+        They crap everywhere.
+        They are flying rodents.
+        They make wierd sound. 
+        They are பாலை நிலத்துப் பறவை. 
+
