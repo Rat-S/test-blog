@@ -13,10 +13,10 @@ title: Using a free, open & decentralised messaging..
 ### conveniences of telegram 
 We felt quite comfortable with telegram as it kicked butt of many other instant messengers that we had. We had persistant messaging, ability to log in from multiple devices, groups that large number of participants, sharing of media, etc. 
 Moreover their clients are *free software* and they have suggested that the entire code will be released as open-source. 
-These feautures attracted quite a lot of users especially from the free software communities. There are decent number of users in these so called un-official telegram groups of communities that advocates for free software such as [Mozilla](https://wiki.mozilla.org/Telegram) or [Fedora](http://telegram.me/fedoranews) [project](http://telegram.me/fedoranews). Even the free software communities like [FSFTN](https://fsftn.org) and [FSMK](https://fsmk.org/) has an un-official telegram group which is flocked by good number of users. 
+These feautures attracted quite a lot of users especially from the free software communities. There are decent number of users in these so called un-official telegram groups of communities that advocates for free software such as [Mozilla](https://wiki.mozilla.org/Telegram) or [Fedora](http://telegram.me/fedoranews "channel") [project](http://telegram.me/fedora "fedora telegram group"). Even the free software communities like [FSFTN](https://fsftn.org) and [FSMK](https://fsmk.org/) has (or had) telegram groups which were flocked by number of users. 
 It is going to be quite a difficult job to ditch telegram quickly, but there are very decent alternatives available that can provide most of the feautures that we ask for.
 
-### xmpp and IRC 
+### IRC and XMPP
 Internet Relay Chat Protocol might not be glamorous anymore, but it is still a very important mode of communication. Lot of discussions and meetings for most free software projects happen here and it is where most of us seek help after doing a quick web search. 
 So can we use IRC as a primary mode for communication? Yes, we can. But, should we? Hell No. We want persistant chat history and I shouldn't have to stay connected always inorder to get the messages. Internet in here sucks so bad that IRC is almost out of consideration. 
 XMPP may cover some limitations that exist in IRC (persistence and identity), but we know that it sucks equally, if not more. 
