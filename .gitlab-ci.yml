@@ -6,6 +6,8 @@ test:
   - gem install jekyll
   - jekyll build -d test
   - gem install social-share-button
+  - bundle install
+  - rails generate social_share_button:install
   artifacts:
     paths:
     - test
@@ -18,6 +20,8 @@ pages:
   - gem install jekyll
   - jekyll build -d public
   - gem install social-share-button
+  - bundle install
+  - rails generate social_share_button:install
   artifacts:
     paths:
     - public
