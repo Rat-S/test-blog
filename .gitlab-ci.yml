@@ -6,7 +6,7 @@ test:
   - gem install jekyll
   - jekyll build -d test
   - gem install social-share-button
-  - gem 'social-share-button'
+  - social-share-button
   artifacts:
     paths:
     - test
@@ -19,7 +19,7 @@ pages:
   - gem install jekyll
   - jekyll build -d public
   - gem install social-share-button
-  - gem 'social-share-button'
+  - social-share-button
   artifacts:
     paths:
     - public
