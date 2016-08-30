@@ -5,7 +5,8 @@ test:
   script:
   - gem install jekyll
   - jekyll build -d test
-  - npm install react-share --save
+  - gem install social-share-button
+  - gem 'social-share-button'
   artifacts:
     paths:
     - test
