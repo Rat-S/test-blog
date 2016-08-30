@@ -18,7 +18,6 @@ pages:
   script:
   - gem install jekyll
   - jekyll build -d public
-  - npm install react-share --save
   artifacts:
     paths:
     - public
