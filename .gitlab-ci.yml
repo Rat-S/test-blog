@@ -5,6 +5,7 @@ test:
   script:
   - gem install jekyll
   - jekyll build -d test
+  - npm install react-share --save
   artifacts:
     paths:
     - test
@@ -16,6 +17,7 @@ pages:
   script:
   - gem install jekyll
   - jekyll build -d public
+  - npm install react-share --save
   artifacts:
     paths:
     - public
